@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maflacs.github.io/news-context/static/css/main.0c930411.css",
-    "main.js": "/maflacs.github.io/news-context/static/js/main.b02b17cb.js",
-    "static/media/pngtree-cartoon-cute-cute-little-sun-png-image_4628469.jpg": "/maflacs.github.io/news-context/static/media/pngtree-cartoon-cute-cute-little-sun-png-image_4628469.16d3246c72ba4a431b45.jpg",
-    "static/media/moon-crescent-png.webp": "/maflacs.github.io/news-context/static/media/moon-crescent-png.58d6ddbff1c2032d0e0e.webp",
-    "index.html": "/maflacs.github.io/news-context/index.html",
-    "main.0c930411.css.map": "/maflacs.github.io/news-context/static/css/main.0c930411.css.map",
-    "main.b02b17cb.js.map": "/maflacs.github.io/news-context/static/js/main.b02b17cb.js.map"
+    "main.css": "/news-context/static/css/main.0c930411.css",
+    "main.js": "/news-context/static/js/main.7b9df7b2.js",
+    "static/media/pngtree-cartoon-cute-cute-little-sun-png-image_4628469.jpg": "/news-context/static/media/pngtree-cartoon-cute-cute-little-sun-png-image_4628469.16d3246c72ba4a431b45.jpg",
+    "static/media/moon-crescent-png.webp": "/news-context/static/media/moon-crescent-png.58d6ddbff1c2032d0e0e.webp",
+    "index.html": "/news-context/index.html",
+    "main.0c930411.css.map": "/news-context/static/css/main.0c930411.css.map",
+    "main.7b9df7b2.js.map": "/news-context/static/js/main.7b9df7b2.js.map"
   },
   "entrypoints": [
     "static/css/main.0c930411.css",
-    "static/js/main.b02b17cb.js"
+    "static/js/main.7b9df7b2.js"
   ]
 }
